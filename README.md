@@ -9,4 +9,4 @@ Finally, I pushed my changes back to GitHub.
 I gain a solid understanding of Git and GitHub workflows, repository management, setting up a Node.js project, error handling, and version control practices. These skills are beneficial for future projects and collaborations! 
 
 The following is an image of my repository:
-<img src="repolab7.jpg" alt="Image">
+<img src="repolab7.png" alt="Image">
